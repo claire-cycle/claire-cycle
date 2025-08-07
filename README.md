@@ -1,11 +1,7 @@
 <dev align="center">
   <!-- 增强标题横幅 - 使用更动感的渐变色 -->
-  <p align="center>
       <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=claire-cycle&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=及时止损，渐入佳境&descAlignY=55" />
-  </p>
 
-  
-  
   # 👋 Hello，here is claire-cycle
   
   <!-- 更改轮播内容和动画速度 -->
