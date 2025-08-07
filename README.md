@@ -9,7 +9,7 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=AI初学者+%7C+DB研究者+%7C+创新者;探索科技边界，打造精彩体验;代码改变世界，创意驱动未来;永远保持好奇心，做最酷的项目)](https://git.io/typing-svg)
 
   <!-- 动感社交媒体按钮 - 增加阴影和悬停效果 -->
-  </dev>
+
   <p align="center">
     <p align="center">
       <a href="https://github.com/claire-cycle"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/github/stars/zyh3699?style=for-the-badge&color=FFC371&labelColor=141321" alt="星标" />
     
   </p>
-
+  </dev>
 <!-- 添加动态波浪分隔符 -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 
