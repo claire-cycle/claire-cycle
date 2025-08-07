@@ -31,33 +31,33 @@
 
 > ### 🧠 后端系统与微服务
 >
-> 🔬 专注于 **高并发 API 设计与性能调优**
-> 🤖 探索 **云原生微服务架构（K8s / Docker / Serverless）**  
-> 🌐 开发 **分布式缓存、消息队列与事件驱动系统**  
-> 📊 实践 **DevOps、CI/CD 与灰度发布**  
-> ⚡ 热衷于 **数据库分库分表、读写分离与事务一致性**
+> 🔬 专注于 **高并发 API 设计**
+> 🤖 探索 **云原生微服务架构**  
+> 🌐 开发 **分事件驱动系统**  
+> 📊 实践 **DevOps**  
+> ⚡ 热衷于 **事务一致性**
 
 </td>
 <td width="34%" valign="top">
 
 > ### 🧪 深度学习与机器学习
 >
-> 🔍 钻研 **计算机视觉与图像识别**
-> 📝 实现 **自然语言处理与文本分析**  
-> 📈 应用 **时间序列预测与异常检测**  
-> 🧮 优化 **神经网络架构与训练策略**  
-> 🔄 探索 **AutoML、迁移学习与少样本学习**
+> 🔍 钻研 **计算机视觉**
+> 📝 实现 **自然语言处理析**  
+> 📈 应用 **时间序列预测测**  
+> 🧮 优化 **神经网络架构**  
+> 🔄 探索 **迁移学习与少样本学习**
 
 </td>
 <td width="35%" valign="top">
 
 > ### 💾 Web3 与区块链
 >
-> 🛢️ 设计 **智能合约架构与链上数据结构**
-> 🔍 研究 **节点性能、跨链桥与 Layer2 扩容**
-> 📈 优化 **去中心化存储、索引与数据可用性**
-> 🔄 开发 **DeFi、DAO、NFT 与链上治理协议**
-> 🌐 构建 **零知识证明与隐私计算**
+> 🛢️ 设计 **智能合约**
+> 🔍 研究 **节点性能**
+> 📈 优化 **去中心化存储**
+> 🔄 开发 **DeFi、DAO**
+> 🌐 构建 **零知识证明**
 
 </td>
 </tr>
@@ -114,10 +114,10 @@
 
 <div align="center">
   <a href="https://github.com/zyh3699/dream-maze">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=claire-cycle&repo=dream-maze&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=claire-cycle&repo=megaeth_bot&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
   </a>
   <a href="https://github.com/zyh3699/doctopus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=claire-cycle&repo=doctopus&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=claire-cycle&repo=grass_bot&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
   </a>
 </div>
 
