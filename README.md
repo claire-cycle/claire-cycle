@@ -1,5 +1,6 @@
+<dev align="center">
   <!-- 增强标题横幅 - 使用更动感的渐变色 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=Yuanhao-Zhong&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=及时止损，渐入佳境&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=claire-cycle&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=及时止损，渐入佳境&descAlignY=55" />
   
   # 👋 Hello，here is claire-cycle
   
@@ -9,9 +10,9 @@
   <!-- 动感社交媒体按钮 - 增加阴影和悬停效果 -->
   <p align="center">
     <p align="center">
-    <a href="https://github.com/claire-cycle"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="mailto:ruichencai@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+      <a href="https://github.com/claire-cycle"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+      <a href="mailto:ruichencai@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    </p>
     
   </p>
 
